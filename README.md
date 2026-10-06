@@ -71,11 +71,11 @@ Trained five classifiers and compared them using **accuracy** and **F1 score** o
 
 | Model | Accuracy | F1 Score |
 |---|---|---|
-| **Logistic Regression** | **XX.XX** | **XX.XX** |
-| KNN | XX.XX | XX.XX |
-| Naive Bayes | XX.XX | XX.XX |
-| Decision Tree | XX.XX | XX.XX |
-| SVM | XX.XX | XX.XX |
+| **Logistic Regression** | **85.87** | **87.38** |
+| KNN | 83.70 | 85.58 |
+| Naive Bayes | 84.78 | 86.14 |
+| Decision Tree | 76.63 | 78.61 |
+| SVM | 84.78 | 86.79 |
 
 > 🔧 Replace the `XX.XX` placeholders with the values from your notebook's `result` output.
 
