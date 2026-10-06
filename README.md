@@ -77,7 +77,6 @@ Trained five classifiers and compared them using **accuracy** and **F1 score** o
 | Decision Tree | 76.63 | 78.61 |
 | SVM | 84.78 | 86.79 |
 
-> 🔧 Replace the `XX.XX` placeholders with the values from your notebook's `result` output.
 
 **Logistic Regression** performed best on both metrics, so it was selected as the final model.
 
